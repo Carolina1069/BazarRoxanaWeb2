@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cooper black;
+}
+body{
+    background: #f5f5f5;
+}
+.co{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px;
+    background: #fff;
+    margin-top: 50px;
+    box-shadow: 0px 1px 10px
+        rgba(0,0,0,0.4);
+}
+.logo{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+    font-weight: 100;
+}
+.sub-titulo{
+    font-size: 30px;
+    font-weight: 400;
+}
+.container img{
+     padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+    width: 300px;
+    height: 200px;
+    float: left;
+}
