@@ -145,7 +145,7 @@
 
             </div>
         </div>
-        <footer style="background-color: black; margin-top:30% " class="bg-light text-center text-lg-start" > Derechos Reservados 2021 BDCAM </footer><footer style="background-color: black; margin-top:30% " class="bg-light text-center text-lg-start" > Derechos Reservados 2021 BDCAM </footer>
+
 
     @yield('carrusel')
 </body>

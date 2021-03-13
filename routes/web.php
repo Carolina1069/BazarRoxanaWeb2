@@ -35,3 +35,4 @@ Route:: view('/Contactanos', 'Contactanos')->name('Contactanos');
 Route:: view('/Marcas', 'Marcas')->name('Marcas');
 Route:: view('/Noticias', 'Noticias')->name('Noticias');
 Route:: view('/Opiniones', 'Opiniones')->name('Opiniones');
+Route:: post('Contactanos', ('mensajeController@sstore'))->name('Contac');

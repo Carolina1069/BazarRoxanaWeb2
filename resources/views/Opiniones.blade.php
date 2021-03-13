@@ -38,6 +38,20 @@
  <br>
  <br>
 
+ <br>
+     <br>
+     <br>
+ <form>
+
+    <textarea name="contenido" rows="10" cols="150" placeholder="Mensaje" value='{{old('contenido')}}'></textarea><br>
+
+    {!!$errors->first('contenido','<small>:message</small><br>')!!}
+
+    <button style='width: 200%; height:100%' type="submit" class="btn btn-primary btn-block">Enviar</button>
+
+</form>
+
+
 </div>
     </div>
 

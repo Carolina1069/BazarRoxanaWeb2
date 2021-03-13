@@ -21,7 +21,7 @@
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li><a href="/Compras">Comprar</a></li>
+
               <li><a href="/Conocenos">Conocenos</a></li>
               <li><a href="/Contactanos">Contactanos</a></li>
               <li><a href="/Noticias">Noticias</a></li>
